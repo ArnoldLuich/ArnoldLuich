@@ -10,6 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldluich&show_icons=true&locale=en&layout=compact" alt="arnoldluich" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnoldluich&show_icons=true&locale=en" alt="arnoldluich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldluich&" alt="arnoldluich" /></p>
