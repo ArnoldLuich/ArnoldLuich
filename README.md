@@ -1,6 +1,4 @@
-- 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **arnold.arney@gmail.com**
 
 <p align="left">
 </p>
